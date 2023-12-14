@@ -1,0 +1,94 @@
+﻿Breed,Classification,obey,reps_min,reps_max,height_min,height_max,weight_min,weight_max,Country of Origin,Fur Color,Height (in),Color of Eyes,Longevity (yrs),Character Traits,Common Health Problems
+Affenpinscher,Above Average Working Dogs,0.7,16,25,9,12,8,12,Germany,"Black, Brown, Red",9-11,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye problems, skin allergies"
+Akita,Average Working,0.5,26,40,26,28,80,120,Japan,"Red, Fawn, Sesame",24-28,Brown,10-12,"Loyal, intelligent, good-natured, energetic","Dental problems, eye issues, skin allergies"
+Alaskan Malamute,Average Working,0.5,26,40,0,0,0,0,,,,,,,
+American Foxhound,Average Working,0.5,26,40,22,25,65,70,,,,,,,
+American Staffordshire Terrier,Above Average Working Dogs,0.7,16,25,17,19,40,50,,,,,,,
+American Water Spaniel,Average Working,0.5,26,40,15,18,25,45,,,,,,,
+Australian Cattle Dog,Brightest Dogs,0.95,1,4,17,20,35,45,Australia,"Blue, Red",17-20,Brown,12-16,"Intelligent, energetic, playful, good-natured","Dental problems, skin allergies, hip dysplasia"
+Australian Shepherd,Average Working,0.5,26,40,18,23,40,60,Turkey,Fawn,27-29,Brown,12-14,"Loyal, intelligent, good-natured, energetic","Dental problems, eye issues, skin allergies"
+Australian Terrier,Above Average Working Dogs,0.7,16,25,10,10,10,14,Australia,"Red, Black & Tan",10-11,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, skin allergies, hip dysplasia"
+Bearded Collie,Above Average Working Dogs,0.7,16,25,20,22,40,60,,,,,,,
+Bedlington Terrier,Average Working,0.5,26,40,15,16,18,23,,,,,,,
+Belgian Malinois,Excellent Working Dogs,0.85,5,15,22,26,60,65,Belgium,"Fawn, Mahogany",22-26,Brown,12-14,"Intelligent, energetic, loyal, protective","Hip dysplasia, eye problems, skin allergies"
+Belgian Sheepdog,Excellent Working Dogs,0.85,5,15,22,26,60,75,,,,,,,
+Bernese Mountain Dog,Excellent Working Dogs,0.85,5,15,23,27,85,110,,,,,,,
+Bichon Frise,Average Working,0.5,26,40,9.5,11.5,10,18,France,White,9-11,Brown,12-15,"Playful, affectionate, intelligent, social","Dental problems, eye problems, bladder stones"
+Border Collie,Brightest Dogs,0.95,1,4,19,21,40,40,England,"Black, White, Red",18-22,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Border Terrier,Above Average Working Dogs,0.7,16,25,12,15,12,15,England,"Red, Wheaten, Black",10-16,Brown,12-16,"Intelligent, energetic, playful, good-natured","Dental problems, skin allergies, hip dysplasia"
+Boston Terrier,Average Working,0.5,26,40,14,15,15,25,United States,"Black, White",15-17,Brown,11-13,"Intelligent, energetic, affectionate, good-natured","Eye problems, respiratory issues, skin allergies"
+Boxer,Average Working,0.5,26,40,21,25,65,70,Germany,"Fawn, Brindle",21-25,Brown,10-12,"Loyal, energetic, intelligent, playful, protective","Hip dysplasia, cancer, heart conditions"
+Briard,Above Average Working Dogs,0.7,16,25,23,27,74,76,,,,,,,
+Brittany,Excellent Working Dogs,0.85,5,15,17,21,30,40,,,,,,,
+Bull Terrier,Fair Working,0.3,41,80,21,22,50,70,England,"White, Red",20-22,Brown,10-12,"Loyal, intelligent, good-natured, energetic","Dental problems, eye issues, skin allergies"
+Bullmastiff,Fair Working,0.3,41,80,25,27,100,130,,,,,,,
+Cairn Terrier,Above Average Working Dogs,0.7,16,25,9,10,14,14,Scotland,"Black, Wheaten, Red",10-12,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye problems, skin allergies"
+Cardigan Welsh Corgi,Excellent Working Dogs,0.85,5,15,10,12,25,35,Wales,"Red, Sable, Black",10-12,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Cavalier King Charles Spaniel,Average Working,0.5,26,40,10,15,15,20,,,,,,,
+Chesapeake Bay Retriever,Above Average Working Dogs,0.7,16,25,21,26,55,75,United States,"Brown, Tan",21-26,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Chihuahua,Fair Working,0.3,41,80,6,9,2,5,Mexico,"Black, Brown, Tan, White",6-9,"Brown, Blue",12-20,"Loyal, energetic, confident, sensitive","Dental problems, eye issues, respiratory issues"
+Chinese Crested,Fair Working,0.3,41,80,11,13,5,12,China,"Pink, White, Black",11-13,Brown,13-18,"Intelligent, energetic, affectionate, good-natured","Dental problems, eye problems, skin allergies"
+Chinese Shar Pei,Average Working,0.5,26,40,18,20,45,55,,,,,,,
+Clumber Spaniel,Above Average Working Dogs,0.7,16,25,19,20,35,65,,,,,,,
+Curly Coated Retriever,Average Working,0.5,26,40,25,27,65,80,,,,,,,
+Dachshund,Average Working,0.5,26,40,7,10,16,32,Germany,"Black, Tan",5-9,"Brown, Blue",12-15,"Loyal, energetic, playful, curious","Intervertebral disc disease, hip dysplasia, diabetes"
+Dalmatian,Above Average Working Dogs,0.7,16,25,19,23,45,70,,,,,,,
+Dandie Dinmont Terrier,Fair Working,0.3,41,80,18,24,8,11,,,,,,,
+Doberman Pinscher,Brightest Dogs,0.95,1,4,26,28,60,100,Germany,"Black, Red",24-28,Brown,10-12,"Loyal, energetic, intelligent, protective","Hip dysplasia, heart conditions, cancer"
+English Foxhound,Average Working,0.5,26,40,22,25,65,70,,,,,,,
+English Setter,Above Average Working Dogs,0.7,16,25,23,27,45,80,England,"Black, White, Liver",23-27,Brown,12-15,"Intelligent, energetic, affectionate, good-natured","Hip dysplasia, eye problems, cancer"
+English Springer Spaniel,Excellent Working Dogs,0.85,5,15,20,20,45,55,England,"Black, White, Liver",20-24,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Field Spaniel,Above Average Working Dogs,0.7,16,25,18,18,35,50,England,"Black, Liver",15-18,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Finnish Spitz,Average Working,0.5,26,40,15,20,31,35,Finland,"Red, Golden",15-20,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+French Bulldog,Fair Working,0.3,41,80,11,12,17,28,France,"White, Black, Brindle",11-12,Brown,10-12,"Affectionate, playful, good-natured","Breathing problems, eye problems, hip dysplasia"
+German Shorthaired Pointer,Excellent Working Dogs,0.85,5,15,20,27,50,80,,,,,,,
+German Wirehaired Pointer,Average Working,0.5,26,40,22,26,60,70,,,,,,,
+Golden Retriever,Brightest Dogs,0.95,1,4,21,24,55,75,Scotland,Golden,21-24,Brown,10-12,"Intelligent, friendly, kind, loyal, good-natured","Hip dysplasia, cancer, skin allergies"
+Gordon Setter,Above Average Working Dogs,0.7,16,25,23,27,45,80,Scotland,"Black, Tan",23-27,Brown,12-15,"Intelligent, energetic, good-natured, affectionate","Hip dysplasia, eye problems, cancer"
+Great Dane,Average Working,0.5,26,40,32,32,120,160,Germany,"Black, Blue, Fawn, Harlequin",28-34,Brown,8-10,"Gentle, loyal, intelligent, good-natured","Hip dysplasia, cancer, heart conditions"
+Great Pyrenees,Fair Working,0.3,41,80,27,32,95,120,France,White,25-32,Brown,10-12,"Loyal, intelligent, gentle, protective","Hip dysplasia, cancer, skin allergies"
+Greyhound,Average Working,0.5,26,40,27,30,60,70,England,"Black, White, Brindle",26-30,Brown,10-12,"Intelligent, athletic, sensitive, good-natured","Hip dysplasia, eye problems, heart conditions"
+Ibizan Hound,Average Working,0.5,26,40,22,29,42,55,,,,,,,
+Irish Setter,Above Average Working Dogs,0.7,16,25,25,27,60,70,Ireland,Red,24-28,Brown,12-15,"Intelligent, energetic, good-natured, affectionate","Hip dysplasia, eye problems, cancer"
+Irish Terrier,Average Working,0.5,26,40,18,19,25,27,Ireland,Red,14-16,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Irish Water Spaniel,Excellent Working Dogs,0.85,5,15,10,23,45,65,Ireland,Brown,21-24,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Irish Wolfhound,Average Working,0.5,26,40,28,35,90,150,Ireland,"Grey, Red, Black",30-35,Brown,6-8,"Gentle, loyal, intelligent, good-natured","Hip dysplasia, heart conditions, cancer"
+Italian Greyhound,Fair Working,0.3,41,80,12,15,6,10,Italy,"Red, Black",13-15,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Japanese Chin,Fair Working,0.3,41,80,8,11,4,11,Japan,"Black, Red",7-11,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Keeshond,Excellent Working Dogs,0.85,5,15,17,19,35,50,Netherlands,"Black, Cream",17-19,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Kerry Blue Terrier,Above Average Working Dogs,0.7,16,25,17,21,30,45,Ireland,Blue,17-19,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Kuvasz,Average Working,0.5,26,40,28,30,70,120,Hungary,White,25-29,Brown,10-12,"Loyal, intelligent, good-natured, energetic","Dental problems, eye issues, skin allergies"
+Labrador Retriever,Brightest Dogs,0.95,1,4,21,24,55,80,Canada,"Yellow, Black, Chocolate",21-24,Brown,10-12,"Loyal, friendly, intelligent, energetic, good-natured","Hip dysplasia, obesity, ear infections"
+Lakeland Terrier,Fair Working,0.3,41,80,13,14,15,17,,,,,,,
+Maltese,Fair Working,0.3,41,80,8,10,4,6,Malta,White,8-10,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Newfoundland,Above Average Working Dogs,0.7,16,25,26,28,100,150,Canada,"Black, Brown, Grey",26-28,Brown,9-11,"Loyal, intelligent, gentle, good-natured","Hip dysplasia, heart conditions, cancer"
+Norwegian Elkhound,Above Average Working Dogs,0.7,16,25,19,20,40,60,,,,,,,
+Papillon,Brightest Dogs,0.95,1,4,8,11,5,10,France,"White, Black, Sable, Red",8-11,Brown,14-16,"Intelligent, energetic, affectionate, good-natured","Dental problems, eye problems, bladder stones"
+Pharaoh Hound,Above Average Working Dogs,0.7,16,25,21,25,45,55,Malta,Red,21-25,Brown,12-14,"Intelligent, energetic, good-natured, loyal","Dental problems, eye issues, skin allergies"
+Pointer,Average Working,0.5,26,40,21,24,44,66,England,"Black, White, Liver",21-27,Brown,12-15,"Intelligent, energetic, good-natured, affectionate","Hip dysplasia, eye problems, cancer"
+Pomeranian,Excellent Working Dogs,0.85,5,15,12,12,3,7,Germany,"Orange, Sable, Black",6-7,Brown,12-16,"Playful, energetic, intelligent, good-natured","Dental problems, eye problems, obesity"
+Portuguese Water Dog,Above Average Working Dogs,0.7,16,25,20,23,42,60,,,,,,,
+Pug,Fair Working,0.3,41,80,10,11,14,22,China,"Fawn, Black",10-14,Brown,12-15,"Loyal, playful, affectionate, social, charming","Eye problems, respiratory issues, obesity"
+Puli,Above Average Working Dogs,0.7,16,25,16,17,29,33,,,,,,,
+Rhodesian Ridgeback,Average Working,0.5,26,40,24,27,70,85,Rhodesia,Light Wheaten,25-27,Brown,10-12,"Intelligent, athletic, loyal, good-natured","Hip dysplasia, eye problems, cancer"
+Rottweiler,Brightest Dogs,0.95,1,4,22,27,90,110,Germany,"Black, Tan",22-27,Brown,8-10,"Loyal, protective, confident, strong","Hip dysplasia, cancer, elbow dysplasia"
+Saluki,Average Working,0.5,26,40,23,28,35,70,Middle East,"Cream, Red",23-28,Brown,12-14,"Intelligent, energetic, good-natured, loyal","Dental problems, eye issues, skin allergies"
+Samoyed,Above Average Working Dogs,0.7,16,25,19,24,50,65,Russia,White,21-23,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Schipperke,Excellent Working Dogs,0.85,5,15,10,13,12,18,,,,,,,
+Scottish Deerhound,Average Working,0.5,26,40,28,32,75,110,Scotland,"Blue, Grey",28-32,Brown,8-10,"Gentle, intelligent, good-natured, independent","Hip dysplasia, heart conditions, cancer"
+Scottish Terrier,Fair Working,0.3,41,80,10,12,18,22,,,,,,,
+Sealyham Terrier,Fair Working,0.3,41,80,12,12,18,20,,,,,,,
+Shiba Inu,Average Working,0.5,26,40,13,16,15,30,,,,,,,
+Siberian Husky,Average Working,0.5,26,40,20,23,40,60,Russia,"Black, White",21-24,Blue,12-15,"Independent, energetic, intelligent, playful, strong","Hip dysplasia, eye problems, hereditary myopathy"
+Skye Terrier,Fair Working,0.3,41,80,10,10,25,25,,,,,,,
+Staffordshire Bull Terrier,Average Working,0.5,26,40,14,16,24,28,England,"White, Black, Red",14-16,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Tibetan Spaniel,Average Working,0.5,26,40,10,10,9,15,,,,,,,
+Tibetan Terrier,Fair Working,0.3,41,80,14,17,20,30,,,,,,,
+Vizsla,Excellent Working Dogs,0.85,5,15,48,66,22,25,Hungary,Red,20-24,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Weimaraner,Excellent Working Dogs,0.85,5,15,25,27,70,85,Germany,"Silver, Grey",25-29,"Blue, Grey",10-12,"Energetic, intelligent, good-natured, loyal","Hip dysplasia, eye problems, cancer"
+Welsh Springer Spaniel,Above Average Working Dogs,0.7,16,25,16,19,35,45,Wales,"Liver, White",20-25,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Welsh Terrier,Average Working,0.5,26,40,15,15,20,21,Wales,"Black, Tan",10-12,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+West Highland White Terrier,Average Working,0.5,26,40,11,11,13,15,Scotland,White,11-12,Brown,12-16,"Intelligent, energetic, playful, good-natured","Dental problems, skin allergies, hip dysplasia"
+Whippet,Average Working,0.5,26,40,18,22,27,30,England,"White, Black, Red",18-22,Brown,12-15,"Intelligent, energetic, good-natured, loyal","Dental problems, eye issues, skin allergies"
+Wirehaired Pointing Griffon,Average Working,0.5,26,40,20,24,45,60,Belgium,"Brown, White",21-24,Brown,12-14,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
+Yorkshire Terrier,Above Average Working Dogs,0.7,16,25,8,8,3,7,England,Blue & Tan,7-8,Brown,12-15,"Intelligent, energetic, playful, good-natured","Dental problems, eye issues, skin allergies"
